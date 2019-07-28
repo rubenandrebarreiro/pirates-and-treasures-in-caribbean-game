@@ -1,1 +1,1 @@
-# pirates-and-treasure-autonomous-intelligent-agents-bots-game
+# Pirates and Treasures in Caribbean Game
