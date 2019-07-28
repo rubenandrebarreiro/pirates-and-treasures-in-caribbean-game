@@ -1,1 +1,1 @@
-# Pirates and Treasures in Caribbean Game
+# Pirates and Treasures in Caribbean - Game
